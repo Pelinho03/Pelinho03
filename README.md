@@ -1,4 +1,4 @@
-# 👋 Olá, o meu nome é Paulo Guimarães!
+# 👋 Olá, sou o Paulo Guimarães!
 
 **Estudante apaixonado por tecnologia, sempre em busca de novos desafios para dominar o mundo do desenvolvimento.**
 
