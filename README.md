@@ -1,17 +1,36 @@
-# 👋 Olá, sou o Paulo Guimarães!
+<h1 align="center">
+   👋 Olá, sou o Paulo Guimarães!
+</h1>
 
-**Estudante apaixonado por tecnologia, sempre em busca de novos desafios para dominar o mundo do desenvolvimento.**
+- 🇵🇹 Sou português, atualmente a concluir os meus estudos em `Engenharia Informática`
+- 💻 `Junior Software Developer` com um forte interesse em `Inteligência Artificial`, `Desenvolvimento Fullstack`, e `Desenvolvimento Mobile`
+- 📚 Atualmente a trabalhar em projetos desafiantes em `Java`, `Python`, `JavaScript`, `PHP`, e `HTML/CSS`
+- 🚀 Sempre a explorar novas tecnologias para resolver problemas reais com soluções inovadoras
 
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=e11f20)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
+<h2 align="center"> 
+   📊 Estatísticas do GitHub
+</h2>
 
-Com uma paixão profunda por **Interface e Experiência de Utilizador (UI/UX), Cibersegurança,** e **Inteligência Artificial**. Estou a preparar-me para me tornar um Fullstack Developer e Programador de Software, com a capacidade de transformar desafios complexos em soluções inovadoras e escaláveis.
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelinho03&layout=compact&langs_count=8&theme=dracula" alt="GitHub Top Langs" /> 
+   <img height="180em" src="https://streak-stats.demolab.com?user=Pelinho03&theme=dracula" alt="GitHub Streak Stats"/> 
+</div>
 
--   🔭 Atualmente a concluir os meus estudos em Engenharia Informática e a trabalhar em projetos desafiantes que expandem os meus conhecimentos práticos.
--   🌱 Incansável no que toca a aprender e praticar algo novo, adoro explorar novas tecnologias e construir projetos que resolvam problemas reais.
--   🚀 Em missão para me tornar um desenvolvedor fullstack, dominando o desenvolvimento frontend e backend, e sempre a ultrapassar os limites do que é possível com código.
+<h2 align="center"> 
+   Habilidades
+</h2>
+
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,php,mysql,git,github,vscode,pycharm" />
+   </a>
+</p>
+
+<h2 align="center"> 
+   Contacto
+</h2>
+
+<p align="center">
+   <a href = "mailto:pauloguimaraes8.1@outlook.pt"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/pauloguimaraes0312" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
