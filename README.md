@@ -2,13 +2,13 @@
    👋 Olá, sou o Paulo Guimarães!
 </h1>
 
-- 🇵🇹 Sou português, atualmente a concluir os meus estudos em `Engenharia Informática`
-- 💻 `Junior Software Developer` com um forte interesse em `Inteligência Artificial`, `Desenvolvimento Fullstack`, e `Desenvolvimento Mobile`
-- 📚 Atualmente a trabalhar em projetos desafiantes em `Java`, `Python`, `JavaScript`, `PHP`, e `HTML/CSS`
+- 🇵🇹 Sou português, atualmente a concluir os meus estudos em <code>Engenharia Informática</code>
+- 💻 <code>Junior Software Developer</code> com um forte interesse em <code>Inteligência Artificial</code>, <code>Desenvolvimento Fullstack</code>, e <code>Desenvolvimento Mobile</code>
+- 📚 Atualmente a trabalhar em projetos desafiantes em <code>Java</code>, <code>Python</code>, <code>JavaScript</code>, <code>PHP</code>, e <code>HTML/CSS</code>
 - 🚀 Sempre a explorar novas tecnologias para resolver problemas reais com soluções inovadoras
 
 <h2 align="center"> 
-   📊 Estatísticas do GitHub
+   Estatísticas do GitHub
 </h2>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,php,mysql,git,github,vscode,pycharm,html,css" />
+      <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,nodejs,mysql,git,github,vscode,pycharm" />
    </a>
 </p>
 
@@ -31,6 +31,13 @@
 </h2>
 
 <p align="center">
-   <a href = "mailto:pauloguimaraes8.1@outlook.pt"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/pauloguimaraes0312" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:pauloguimaraes8.1@outlook.pt">
+      <img src="https://img.shields.io/badge/Outlook-282A36?logo=Mail.Ru" height="30" alt="Enviar Email" />
+   </a>
+   <a href="https://www.linkedin.com/in/pauloguimaraes0312" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-282A36?logo=linkedin" height="30" alt="Conectar no LinkedIn" />
+   </a>
+   <a href="https://www.instagram.com/_paulinho_3" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-282A36?logo=instagram" height="30" alt="Instagram" />
+   </a>
 </p>
