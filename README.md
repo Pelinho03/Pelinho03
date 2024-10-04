@@ -13,7 +13,7 @@
 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelinho03&layout=compact&langs_count=8&theme=dracula" alt="GitHub Top Langs" /> 
-   <img height="180em" src="https://streak-stats.demolab.com?user=Pelinho03&theme=dracula" alt="GitHub Streak Stats"/> 
+   <img height="180em" src="https://streak-stats.demolab.com?user=Pelinho03&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/> 
 </div>
 
 <h2 align="center"> 
