@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/Outlook-282A36?logo=Mail.Ru" height="30" alt="Enviar Email" />
    </a>
    <a href="https://www.linkedin.com/in/pauloguimaraes0312" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-282A36?logo=linkedin" height="30" alt="Conectar no LinkedIn" />
+      <img src="https://img.shields.io/badge/linkedin-282A36?logo=linkedIn" height="30" alt="LinkedIn" />
    </a>
    <a href="https://www.instagram.com/_paulinho_3" target="_blank">
       <img src="https://img.shields.io/badge/instagram-282A36?logo=instagram" height="30" alt="Instagram" />
