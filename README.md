@@ -1,11 +1,11 @@
 <h1 align="center">
-   👋 Olá, sou o Paulo Guimarães!
+   Olá, sou o Paulo Guimarães!
 </h1>
 
-- 🇵🇹 Sou português, atualmente a concluir os meus estudos em <code>Engenharia Informática</code>
-- 💻 <code>Junior Software Developer</code> com um forte interesse em <code>Inteligência Artificial</code>, <code>Desenvolvimento Fullstack</code>, e <code>Desenvolvimento Mobile</code>
-- 📚 Atualmente a trabalhar em projetos desafiantes em <code>Java</code>, <code>Python</code>, <code>JavaScript</code>, <code>PHP</code>, <code>HTML/CSS</code> e <code>DART/Flutter</code>
-- 🚀 Sempre a explorar novas tecnologias para resolver problemas reais com soluções inovadoras
+- Sou português, atualmente a concluir os meus estudos em <code>Engenharia Informática</code>
+- <code>Junior Software Developer</code> com um forte interesse em <code>Inteligência Artificial</code>, <code>Desenvolvimento Fullstack</code>, e <code>Desenvolvimento Mobile</code>
+- Atualmente a trabalhar em projetos desafiantes em <code>Java</code>, <code>Python</code>, <code>JavaScript</code>, <code>PHP</code>, <code>HTML/CSS</code> , <code>DART/Flutter</code> e <code>C#</code>
+- Sempre a explorar novas tecnologias para resolver problemas reais com soluções inovadoras
 
 <h2 align="center"> 
    Estatísticas do GitHub
