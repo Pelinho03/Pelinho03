@@ -8,7 +8,7 @@
 - Sempre a explorar novas tecnologias para resolver problemas reais com soluções inovadoras
 
 <h2 align="center"> 
-   Estatísticas do GitHub
+   Estatísticas
 </h2>
 
 <div align="center">
@@ -22,14 +22,21 @@
 
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,dart,flutter,nodejs,mysql,git,github,vscode,pycharm" />
+      <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,flutter,mysql,github," />
    </a>
 </p>
 
 <h2 align="center"> 
-   Contacto
+   Contactos
 </h2>
 
+<p align="center">
+  <a href="https://pelinho03.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-Online-282A36?logo=codecrafters&logoColor=white" height="30" alt="Portfólio" />
+  </a>
+</p>
+
+</p>
 <p align="center">
    <a href="mailto:pauloguimaraes8.1@outlook.pt">
       <img src="https://img.shields.io/badge/Outlook-282A36?logo=Mail.Ru" height="30" alt="Enviar Email" />
